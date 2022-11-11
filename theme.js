@@ -1,0 +1,6 @@
+if(!window.savedStore) {
+  window.savedStore = {}
+}
+
+
+window.savedStore.theme = {"backgroundColor":"#ffffff","buttonBackgroundColor":"#3a0e7c","buttonBorderRadius":0,"buttonOutline":false,"buttonShadow":false,"buttonShape":"pill","useLargeButton":false,"buttonTextColor":"#f1eaff","buttonHover":"#59369e","fontFamilies":[],"fontFamily":"","fontSizes":{"Large screen":16,"Medium screen":16,"Small screen":16},"highContrast":false,"recoloredChameleonImages":{"https://v2.chameleoncreator.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWRRQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9f8c5d4541d9bf51ec1ee0b568b3afaff70c4dd5/Batch%20A_Notification.svg":"#59369e"},"textColor":"#3a0e7c","useImagePreloader":true,"enableBookmarking":true,"disableLockDownInPreview":false,"userPalette":["#3a0e7c","#f1eaff","#ca94ff","#8a53db","#00e5d6","#0096ff","#0088ff","#7dc1ff","#59369e","#934fff","#dabaf9"],"menu":{"Menu background colour":"#ffffff","Menu text and close colour":"#000000","Menu text hover colour":"#0000ff","Menu text active colour":"#ff0000"},"headings":{"h1":1,"h2":1,"h3":1,"h4":1,"h5":1,"h6":1},"links":{"link":"#934fff","visited":"#59369e","hover":"#00e5d6","focus":"#59369e","active":"#934fff"},"linksSecondary":{"link":"#0000ff","visited":"#800080","hover":"#0000ff","focus":"#e59700","active":"#ff0000"}};
